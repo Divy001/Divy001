@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 👩‍💻 whoami
   
-Hi, I'm Prateek Varshney, a passionate self-taught Full Stack Web Developer from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
+Hi, I'm Divya Shakti Tripathi, a passionate self-taught Full Stack Web Developer from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
 Apart from Web development, I also have interest working with machine learning and Artificial Intelligence.
 
 I am also a competitive programmer. Participating in programming contests has improved my problem-solving skills and also sharpen my data structures and algorithms in a fun competitive way.
@@ -34,4 +34,4 @@ I am also a competitive programmer. Participating in programming contests has im
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Nodejs" width="60" height="40"/> </a>
 <a href="https://www.mongodb.com/cloud/atlas" target="_blank"> <img src="https://clipartart.com/images/mongodb-logo-clipart-6.jpg" alt="MongoDb" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="http://ww1.prweb.com/prfiles/2018/10/05/15812110/postman-logo-vert-2018.png" alt="MongoDb" width="40" height="40"/> </a></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-1606&show_icons=true&locale=en&theme=vue-dark" alt="prateek-1606" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-1606&show_icons=true&locale=en&theme=vue-dark" alt="Divy001" /></p>
