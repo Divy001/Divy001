@@ -7,12 +7,12 @@
 
 Backend engineer with 4 years of experience building server-side systems for B2B SaaS healthcare platforms. Specialised in REST API design, async job processing, database optimisation, and cloud deployments on AWS and Azure.
 
-- 🏢 Previously at **MedPiper Technologies** — built core backend platform for enterprise healthcare clients
-- ⚡ Reduced bulk data processing time by **80%** using BullMQ async job queues
-- 📈 Improved system performance by **20%** via PostgreSQL query tuning and composite indexing
-- 🔒 Resolved all VAPT and Azure Defender vulnerabilities for ISO certification audit
-- 🔄 Migrated legacy Node.js codebase to structured **NestJS modular architecture**
-- ☁️ Deployed on **AWS (EC2, RDS, S3)** and **Azure** with CI/CD via Jenkins and GitHub Actions
+- Previously at **MedPiper Technologies** — built core backend platform for enterprise healthcare clients
+- Reduced bulk data processing time by **80%** using BullMQ async job queues
+- Improved system performance by **20%** via PostgreSQL query tuning and composite indexing
+- Resolved all VAPT and Azure Defender vulnerabilities for ISO certification audit
+- Migrated legacy Node.js codebase to structured **NestJS modular architecture**
+- Deployed on **AWS (EC2, RDS, S3)** and **Azure** with CI/CD via Jenkins and GitHub Actions
 
 ---
 
@@ -63,7 +63,7 @@ RESTful APIs · Microservices · GraphQL · Socket.IO
 ---
 -->
 
-### 📫 Get in touch
+### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-Divya%20Shakti%20Tripathi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divya-shakti-tripathi-0b2577110 "Connect on LinkedIn")
 [![Gmail](https://img.shields.io/badge/-divy8555@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:divy8555@gmail.com "Connect via Email")
@@ -71,5 +71,5 @@ RESTful APIs · Microservices · GraphQL · Socket.IO
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divy001&show_icons=true&locale=en&theme=vue-dark" alt="Divy001" />
+  <img src="https://streak-stats.demolab.com?user=Divy001&theme=tokyonight&hide_border=true" alt="Divy001's GitHub Streak" />
 </p>
