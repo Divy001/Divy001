@@ -1,37 +1,53 @@
-### Hi there 👋
-
-<!--
-**Divy001/Divy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Divya Shakti Tripathi</h1>
+<h3 align="center">Backend Engineer — Node.js · NestJS · TypeScript · PostgreSQL · Redis</h3>
 
 <br />
 
-### 👩‍💻 whoami
-  
-Hi, I'm Divya Shakti Tripathi, a passionate self-taught Full Stack Web Developer from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more.
-Apart from Web development, I also have interest working with machine learning and Artificial Intelligence.
+### 👨‍💻 whoami
 
-I am also a competitive programmer. Participating in programming contests has improved my problem-solving skills and also sharpen my data structures and algorithms in a fun competitive way.
+Backend engineer with 4 years of experience building server-side systems for B2B SaaS healthcare platforms. Specialised in REST API design, async job processing, database optimisation, and cloud deployments on AWS and Azure.
 
-- Connect me on: [![Linkedin Badge](https://img.shields.io/badge/-Prateek%20Varshney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-varshney-2a29a9193/ "Connect on LinkedIn")
-- Email me on [![Gmail Badge](https://img.shields.io/badge/-varshneyprateek20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:varshneyprateek20@gmail.com "Connect via Email")
+- 🏢 Previously at **MedPiper Technologies** — built core backend platform for enterprise healthcare clients
+- ⚡ Reduced bulk data processing time by **80%** using BullMQ async job queues
+- 📈 Improved system performance by **20%** via PostgreSQL query tuning and composite indexing
+- 🔒 Resolved all VAPT and Azure Defender vulnerabilities for ISO certification audit
+- 🔄 Migrated legacy Node.js codebase to structured **NestJS modular architecture**
+- ☁️ Deployed on **AWS (EC2, RDS, S3)** and **Azure** with CI/CD via Jenkins and GitHub Actions
 
-**Languages and Tools:**  
+---
 
-<p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"></a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html5" width="40" height="40"/> </a><img src="https://www.logolynx.com/images/logolynx/8c/8cdf4c047e99f7389e76aa4e2e7e2803.png" alt="css3" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="React" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/> </a> <a href="https://material-ui.com/" target="_blank"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Material-Ui" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Nodejs" width="60" height="40"/> </a>
-<a href="https://www.mongodb.com/cloud/atlas" target="_blank"> <img src="https://clipartart.com/images/mongodb-logo-clipart-6.jpg" alt="MongoDb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="http://ww1.prweb.com/prfiles/2018/10/05/15812110/postman-logo-vert-2018.png" alt="MongoDb" width="40" height="40"/> </a></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-1606&show_icons=true&locale=en&theme=vue-dark" alt="Divy001" /></p>
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+</p>
+
+---
+
+<!--
+### 📌 Featured Projects
+
+- 🔧 **[nestjs-api-boilerplate](https://github.com/Divy001/nestjs-api-boilerplate)** — Production-ready REST API with JWT auth, Redis caching, BullMQ job queues, PostgreSQL and Docker
+
+---
+-->
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-Divya%20Shakti%20Tripathi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divya-shakti-tripathi-0b2577110 "Connect on LinkedIn")
+[![Gmail](https://img.shields.io/badge/-divy8555@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:divy8555@gmail.com "Connect via Email")
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divy001&show_icons=true&locale=en&theme=vue-dark" alt="Divy001" />
+</p>
