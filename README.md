@@ -16,6 +16,26 @@ Backend engineer with 4 years of experience building server-side systems for B2B
 
 ---
 
+## Tech Stack
+
+**Backend**
+Node.js · NestJS · TypeScript · Express.js
+
+**Databases**
+PostgreSQL · MongoDB · Redis
+
+**Messaging & Queues**
+BullMQ · Event-driven architecture
+
+**Cloud & DevOps**
+AWS (EC2, RDS, S3) · Azure · Docker · Jenkins · GitHub Actions · Nginx
+
+**API & Architecture**
+RESTful APIs · Microservices · GraphQL · Socket.IO
+
+---
+
+<!-- 
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -30,6 +50,8 @@ Backend engineer with 4 years of experience building server-side systems for B2B
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 </p>
+
+-->
 
 ---
 
