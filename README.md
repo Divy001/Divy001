@@ -32,7 +32,7 @@ I write about production backend architecture, NestJS patterns, and asynchronous
 
 - **Reddit r/nestjs:** Authored the **#1 post on r/nestjs** (6,300+ views, 24 upvotes) analyzing multi-tenant context isolation with AsyncLocalStorage vs Scope.REQUEST.
 - **Medium:** 8 technical deep-dives covering NestJS production mistakes, LLM deployment bottlenecks, and architectural benchmarks. [Read on Medium](https://medium.com/@divy8555).
-- **Dev.to:** Cross-platform technical articles and discussions. [Read on Dev.to](https://dev.to/divy001).
+- **Dev.to:** Cross-platform technical articles and discussions. [Read on Dev.to](https://dev.to/divy8555).
 - **Twitter/X:** [@Divy2912](https://twitter.com/Divy2912)
 
 ---
